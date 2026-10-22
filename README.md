@@ -3,9 +3,9 @@
 A web-based Student Management System developed following Agile Scrum methodology with Jira sprint tracking, Git version control, and continuous integration via GitHub Actions.
 
 ## Student Details
-- **Name:** Om Jadhav
-- **Student ID:** 25206021
-- **Roll No:** 59
+- **Name:** Ayush Gudka
+- **Student ID:** 25206009
+- **Roll No:** 46
 - **Class / Div:** TE / A
 - **Subject:** Agile Software Development Devops
 - **Instructor:** Prof. Shruti Nair
